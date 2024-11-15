@@ -1,7 +1,7 @@
 ﻿# ULTRAKILL MODDING TEMPLATE
 Created by "thebluenebula" and made possible with the help of BepInEx.
 # How to Setup The Template
-- First of all, install the template and move it to "[LocalUserFolder]\Documents
+- First of all, install the template from the latest release and copy it, then go to "[LocalUserFolder]\Documents"
 - Navigate to the folder of your version of Visual Studio you would to use the template in. (Visual Studio 20XX)
 - Find the "My Exported Templates" folder and open it.
 - Paste the previously obtained .zip there.
